@@ -64,7 +64,7 @@ function loadingAnimation() {
         } else {
           time.textContent = 100;
         }
-      }, 20);
+      }, 26);
     },
   });
   tl.from(".waiting h3", {
